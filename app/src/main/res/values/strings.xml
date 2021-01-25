@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Film Finder</string>
+    <string name="greeting_message">Here you can find the latest information on all your favourite movies and series. Please select an option below, so that we can get started.</string>
+    <string name="movie">Movie</string>
+    <string name="series">Series</string>
+    <string name="api_key">dd54f240</string>
+    <string name="web_service_url_series">http://www.omdbapi.com/?type=series</string>
+    <string name="web_service_url_movie">http://www.omdbapi.com/?type=movie</string>
+    <string name="web_service_url">http://www.omdbapi.com/</string>
+    <string name="read_error">Unable to read film data.</string>
+    <string name="search">Search</string>
+    <string name="no_data_returned">No data was returned in your search entry. Please try another?</string>
+    <string name="search_movie_info">Please enter in a film title so we can begin the search. If you’d like to add a year, simply add a comma after the title and then the year you’re looking for. (e.g. ExampleTitle, 2021)</string>
+    <string name="released">Released:</string>
+    <string name="language">Language:</string>
+    <string name="actors">Actors:</string>
+    <string name="runtime">Runtime:</string>
+    <string name="director">Director:</string>
+    <string name="plot_summary">Plot Summary</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#fbcb54</color>
+    <color name="orange">#e4745b</color>
+    <color name="bright_orange">#fb6b53</color>
+    <color name="opacity_bright_orange">#33fb6b53</color>
+    <color name="dark_grey">#4f5d6c</color>
+    <color name="light_grey">#d7d9dc</color>
+    <color name="grey">#9ca3ac</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dimmed_background">#80000000</color>
+    <color name="transparent">#0000</color>
+</resources>
